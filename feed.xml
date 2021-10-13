@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>My First Website</title>
+    <link href="https://karinnm.github.io/Publii-Page/feed.xml" rel="self" />
+    <link href="https://karinnm.github.io/Publii-Page" />
+    <updated>2021-10-13T10:54:57-07:00</updated>
+    <author>
+        <name>Karinn Murdock</name>
+    </author>
+    <id>https://karinnm.github.io/Publii-Page</id>
+
+    <entry>
+        <title>Introduction to my Digital Story</title>
+        <author>
+            <name>Karinn Murdock</name>
+        </author>
+        <link href="https://karinnm.github.io/Publii-Page/introduction-to-my-digital-story-3.html"/>
+        <id>https://karinnm.github.io/Publii-Page/introduction-to-my-digital-story-3.html</id>
+
+        <updated>2021-10-13T10:54:57-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Welcome to my website! Look at this visualization I made with Voyant Tools. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Welcome to my website!</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/JIix-yVzheM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>Look at this visualization I made with <a href="&lt;iframe style='width: 912px; height: 439px;' src='https:/voyant-tools.org/tool/Cirrus/?palette=d3_cat10&amp;whiteList=&amp;visible=105&amp;fontFamily=%22Trebuchet%20MS%22%2C%20Helvetica%2C%20sans-serif&amp;corpus=27c1ea1b3520ee7c61aadbfacb4e3ddc'&gt;&lt;/iframe&gt;" target="_blank" rel="noopener noreferrer">Voyant Tools</a>. </p>
+<figure class="post__video"><iframe loading="lazy" width="300" height="150" style="width: 912px; height: 439px;" src="https://voyant-tools.org/tool/Cirrus/?palette=d3_cat10&amp;whiteList=&amp;visible=105&amp;fontFamily=%22Trebuchet%20MS%22%2C%20Helvetica%2C%20sans-serif&amp;corpus=27c1ea1b3520ee7c61aadbfacb4e3ddc"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

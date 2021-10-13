@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My First Website",
+    "description": "",
+    "home_page_url": "https://karinnm.github.io/Publii-Page",
+    "feed_url": "https://karinnm.github.io/Publii-Page/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Karinn Murdock"
+    },
+    "items": [
+        {
+            "id": "https://karinnm.github.io/Publii-Page/introduction-to-my-digital-story-3.html",
+            "url": "https://karinnm.github.io/Publii-Page/introduction-to-my-digital-story-3.html",
+            "title": "Introduction to my Digital Story",
+            "summary": "Welcome to my website! Look at this visualization I made with Voyant Tools. ",
+            "content_html": "<p>Welcome to my website!</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/JIix-yVzheM\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p>Look at this visualization I made with <a href=\"&lt;iframe style='width: 912px; height: 439px;' src='https:/voyant-tools.org/tool/Cirrus/?palette=d3_cat10&amp;whiteList=&amp;visible=105&amp;fontFamily=%22Trebuchet%20MS%22%2C%20Helvetica%2C%20sans-serif&amp;corpus=27c1ea1b3520ee7c61aadbfacb4e3ddc'&gt;&lt;/iframe&gt;\" target=\"_blank\" rel=\"noopener noreferrer\">Voyant Tools</a>. </p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"300\" height=\"150\" style=\"width: 912px; height: 439px;\" src=\"https://voyant-tools.org/tool/Cirrus/?palette=d3_cat10&amp;whiteList=&amp;visible=105&amp;fontFamily=%22Trebuchet%20MS%22%2C%20Helvetica%2C%20sans-serif&amp;corpus=27c1ea1b3520ee7c61aadbfacb4e3ddc\"></iframe></figure>",
+            "author": {
+                "name": "Karinn Murdock"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-13T10:54:21-07:00",
+            "date_modified": "2021-10-13T10:54:57-07:00"
+        }
+    ]
+}
